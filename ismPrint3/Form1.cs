@@ -15,7 +15,7 @@ using System.Windows.Forms;
 namespace ismPrint3
 {
     public partial class Form1 : Form
-    {
+    {  
         public string iniFilePath = "";
         public string printDocumentFileName = "";
         public int printerIndex = 0;
